@@ -1,6 +1,6 @@
 # Mock_Hospital
 
-THe following .zip contains a Mock Hospital program
+The following .zip contains a Mock Hospital program
 The program is coded using Python with the Django Framework.
 
 Tools: Notepad++, PyCharm, Bootstrap, Tortoise SVN, PuTTY
