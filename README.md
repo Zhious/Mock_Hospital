@@ -19,4 +19,7 @@ Documenter - John,
 Programmer - Joshua, 
 Programmer - Dylan
 
+This project was not completed with the use of this github repository, thus the commits do not reflect the time period of completion.
+Documentation files may be given upon request
+
 For more information, view the README located within the project zip file.
