@@ -11,11 +11,12 @@ This was completed in a team of 6.
 
 Roles consisting of:
 (All roles assisted with programming either; in the "raw" code or the tests/cases)
-Team Lead - Doug
-Lead Programmer - Aaron
-Lead Tester - Jean
-Documenter - John
-Programmer - Joshua
+
+Team Lead - Doug, 
+Lead Programmer - Aaron, 
+Lead Tester - Jean, 
+Documenter - John, 
+Programmer - Joshua, 
 Programmer - Dylan
 
 For more information, view the README located within the project zip file.
